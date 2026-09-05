@@ -1,0 +1,5124 @@
+{
+  "source_board": "CAC Schools",
+  "board_id": "18420733851",
+  "board_url": "https://capitolareacouncil564.monday.com/boards/18420733851",
+  "board_updated_at": "2026-08-01T10:20:02Z",
+  "retrieved_at": "2026-08-01T21:42:38.703Z",
+  "excluded_program_labels": [
+    "Waterloo",
+    "Exploring"
+  ],
+  "assignment_count": 730,
+  "assignments": [
+    {
+      "monday_item_id": "12493309685",
+      "school_name": "New school name",
+      "school_district": "",
+      "scouting_district": "Unassigned",
+      "district_type": ""
+    },
+    {
+      "monday_item_id": "12457876199",
+      "school_name": "ABACUS SCHOOL OF AUSTIN",
+      "school_district": "ABACUS SCHOOL OF AUSTIN",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851897",
+      "school_name": "ACADEMY OF THOUGHT AND INDUSTRY AUSTIN",
+      "school_district": "ACADEMY OF THOUGHT AND INDUSTRY AUSTIN",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851040",
+      "school_name": "ACE ACADEMY",
+      "school_district": "ACE ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851991",
+      "school_name": "ACTON IMPRIMIS LAKE TRAVIS LLC",
+      "school_district": "ACTON IMPRIMIS LAKE TRAVIS LLC",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851678",
+      "school_name": "AESA PREP ACADEMY",
+      "school_district": "AESA PREP ACADEMY",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851851",
+      "school_name": "AHB COMMUNITY SCHOOL",
+      "school_district": "AHB COMMUNITY SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876112",
+      "school_name": "AMBLESIDE SCHOOL OF FREDERICKSBURG",
+      "school_district": "AMBLESIDE SCHOOL OF FREDERICKSBURG",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851711",
+      "school_name": "ASCENT: AN ACTON ACADEMY",
+      "school_district": "ASCENT: AN ACTON ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851744",
+      "school_name": "AUSTIN ACHIEVE FERGUSON",
+      "school_district": "AUSTIN ACHIEVE PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851398",
+      "school_name": "AUSTIN ACHIEVE H S",
+      "school_district": "AUSTIN ACHIEVE PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850582",
+      "school_name": "AUSTIN ACHIEVE MIDDLE",
+      "school_district": "AUSTIN ACHIEVE PUBLIC SCHOOLS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850665",
+      "school_name": "AUSTIN ACHIEVE NORTHEAST EL",
+      "school_district": "AUSTIN ACHIEVE PUBLIC SCHOOLS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851700",
+      "school_name": "AUSTIN ACHIEVE PFLUGERVILLE",
+      "school_district": "AUSTIN ACHIEVE PUBLIC SCHOOLS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851113",
+      "school_name": "AUSTIN INTERNATIONAL SCHOOL",
+      "school_district": "AUSTIN INTERNATIONAL SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805845",
+      "school_name": "AKINS EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851820",
+      "school_name": "ALLISON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850735",
+      "school_name": "ALTERNATIVE LEARNING CENTER",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850693",
+      "school_name": "ANDERSON H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850585",
+      "school_name": "ANDERSON HIGH SCHOOL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850662",
+      "school_name": "ANDREWS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851478",
+      "school_name": "AUSTIN H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851821",
+      "school_name": "AUSTIN ISD PREK PARTNERSHIP (PKP)",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850713",
+      "school_name": "AUSTIN ST HOSPITAL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851370",
+      "school_name": "BAILEY MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876385",
+      "school_name": "BALDWIN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850920",
+      "school_name": "BARANOFF EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850692",
+      "school_name": "BARTON HILLS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851866",
+      "school_name": "BEAR CREEK EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850787",
+      "school_name": "BLACKSHEAR EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850857",
+      "school_name": "BLANTON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876249",
+      "school_name": "BLAZIER EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851853",
+      "school_name": "BLAZIER PRI",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850956",
+      "school_name": "BOONE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805616",
+      "school_name": "BOWIE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850921",
+      "school_name": "BRENTWOOD EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851013",
+      "school_name": "BROWN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851068",
+      "school_name": "BRYKER WOODS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805614",
+      "school_name": "BURNET MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850456",
+      "school_name": "CAMPBELL EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851114",
+      "school_name": "CASEY EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850528",
+      "school_name": "CASIS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851561",
+      "school_name": "CLAYTON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805448",
+      "school_name": "COOK EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851190",
+      "school_name": "COVINGTON MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851001",
+      "school_name": "COWAN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850633",
+      "school_name": "CROCKETT EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850670",
+      "school_name": "CUNNINGHAM EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850889",
+      "school_name": "DAVIS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805381",
+      "school_name": "DOBIE MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805620",
+      "school_name": "DOSS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850302",
+      "school_name": "EASTSIDE EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850666",
+      "school_name": "EASTSIDE EARLY COLLEGE HIGH SCHOOL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805447",
+      "school_name": "GALINDO EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851710",
+      "school_name": "GARCIA YMLA",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805622",
+      "school_name": "GARZA INDEPENDENCE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850588",
+      "school_name": "GENERAL MARSHALL MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851575",
+      "school_name": "GORZYCKI MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876433",
+      "school_name": "GOVALLE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797603",
+      "school_name": "GRAHAM EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850502",
+      "school_name": "GREENLEAF NCC",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851673",
+      "school_name": "GUERRERO THOMPSON",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851301",
+      "school_name": "GULLETT EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851365",
+      "school_name": "HARRIS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850527",
+      "school_name": "HART EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851399",
+      "school_name": "HIGHLAND PARK EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805717",
+      "school_name": "HILL EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797607",
+      "school_name": "HOUSTON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850354",
+      "school_name": "INTERNATIONAL H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850818",
+      "school_name": "JORDAN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851417",
+      "school_name": "JOSLIN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828391",
+      "school_name": "KEALING MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852020",
+      "school_name": "KIKER EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851041",
+      "school_name": "KOCUREK EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805388",
+      "school_name": "LAMAR MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851394",
+      "school_name": "LANGFORD EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850183",
+      "school_name": "LASA H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805449",
+      "school_name": "LBJ EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850417",
+      "school_name": "LEADERSHIP ACADEMY",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851473",
+      "school_name": "LEE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850506",
+      "school_name": "LINDER EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850505",
+      "school_name": "LIVELY MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876202",
+      "school_name": "MAPLEWOOD EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805748",
+      "school_name": "MARTIN MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851553",
+      "school_name": "MATHEWS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828394",
+      "school_name": "MCBEE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851265",
+      "school_name": "MCCALLUM H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876484",
+      "school_name": "MENCHACA EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851269",
+      "school_name": "MENDEZ MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876196",
+      "school_name": "MILLS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850178",
+      "school_name": "MURCHISON MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851558",
+      "school_name": "NAVARRO EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828389",
+      "school_name": "NORMAN-SIMS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851306",
+      "school_name": "NORTHEAST EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805658",
+      "school_name": "O HENRY MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876498",
+      "school_name": "OAK HILL EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876450",
+      "school_name": "OAK SPRINGS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805847",
+      "school_name": "ODOM EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876466",
+      "school_name": "ORTEGA EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851750",
+      "school_name": "OVERTON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851708",
+      "school_name": "PADRON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851491",
+      "school_name": "PALM EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851493",
+      "school_name": "PAREDES MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876479",
+      "school_name": "PATTON EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851571",
+      "school_name": "PECAN SPRINGS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850533",
+      "school_name": "PEREZ EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850630",
+      "school_name": "PICKLE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805383",
+      "school_name": "PILLOW EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876444",
+      "school_name": "PLEASANT HILL EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851639",
+      "school_name": "REILLY EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797605",
+      "school_name": "RICHARDS SCH FOR YOUNG WOMEN LEADERS",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851671",
+      "school_name": "RODRIGUEZ EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850915",
+      "school_name": "ROSEDALE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876159",
+      "school_name": "SADLER MEANS YWLA",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851480",
+      "school_name": "SANCHEZ EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851414",
+      "school_name": "SMALL MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876462",
+      "school_name": "ST ELMO EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851793",
+      "school_name": "SUMMITT EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797606",
+      "school_name": "TRAVIS COUNTY JUVENILE DETENTION CENTER",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851369",
+      "school_name": "TRAVIS EARLY COLLEGE H S",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876486",
+      "school_name": "TRAVIS HTS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850779",
+      "school_name": "UPHAUS EARLY CHILDHOOD CENTER",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876500",
+      "school_name": "WALNUT CREEK EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828387",
+      "school_name": "WEBB MIDDLE",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850858",
+      "school_name": "WILLIAMS EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805450",
+      "school_name": "WOOLDRIDGE EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876256",
+      "school_name": "WOOTEN EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851474",
+      "school_name": "ZAVALA EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851572",
+      "school_name": "ZILKER EL",
+      "school_district": "AUSTIN ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851814",
+      "school_name": "AUSTIN JEWISH ACADEMY",
+      "school_district": "AUSTIN JEWISH ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876116",
+      "school_name": "AUSTIN MONTESSORI SCHOOL",
+      "school_district": "AUSTIN MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851702",
+      "school_name": "AUSTIN PEACE ACADEMY",
+      "school_district": "AUSTIN PEACE ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851816",
+      "school_name": "ADELTON EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851318",
+      "school_name": "BASTROP H S",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851574",
+      "school_name": "BASTROP MIDDLE",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851573",
+      "school_name": "BLUEBONNET EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851746",
+      "school_name": "CAMINO REAL EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851748",
+      "school_name": "CEDAR CREEK EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851409",
+      "school_name": "CEDAR CREEK H S",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851147",
+      "school_name": "CEDAR CREEK MIDDLE",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851701",
+      "school_name": "COLONY OAKS EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851449",
+      "school_name": "COLORADO RIVER COLLEGIATE ACADEMY",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851495",
+      "school_name": "CREEKSIDE MIDDLE",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851637",
+      "school_name": "EMILE EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851494",
+      "school_name": "GENESIS H S",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851638",
+      "school_name": "LOST PINES EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851699",
+      "school_name": "MINA EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851187",
+      "school_name": "RED ROCK EL",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851850",
+      "school_name": "RIVERSIDE MIDDLE",
+      "school_district": "BASTROP ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850634",
+      "school_name": "BLANCO EL",
+      "school_district": "BLANCO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851640",
+      "school_name": "BLANCO H S",
+      "school_district": "BLANCO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851709",
+      "school_name": "BLANCO MIDDLE",
+      "school_district": "BLANCO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852013",
+      "school_name": "BRENTWOOD CHRISTIAN SCHOOL",
+      "school_district": "BRENTWOOD CHRISTIAN SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805740",
+      "school_name": "BERTRAM EL",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851792",
+      "school_name": "BURNET H S",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851957",
+      "school_name": "BURNET MIDDLE",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851861",
+      "school_name": "QUEST H S",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829686",
+      "school_name": "RJ RICHEY EL",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805563",
+      "school_name": "SHADY GROVE EL",
+      "school_district": "BURNET CISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876304",
+      "school_name": "CALVARY EPISCOPAL SCHOOL",
+      "school_district": "CALVARY EPISCOPAL SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851788",
+      "school_name": "CAPITOL SCHOOL OF AUSTIN",
+      "school_district": "CAPITOL SCHOOL OF AUSTIN",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850258",
+      "school_name": "CASA DE NINOS BILINGUAL MONTESSORI SCHOOL",
+      "school_district": "CASA DE NINOS BILINGUAL MONTESSORI SCHOOL",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851315",
+      "school_name": "CASNER CHRISTIAN ACADEMY",
+      "school_district": "CASNER CHRISTIAN ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851749",
+      "school_name": "CATHEDRAL SCHOOL OF ST MARY",
+      "school_district": "CATHEDRAL SCHOOL OF ST MARY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851900",
+      "school_name": "CEDAR PARK MONTESSORI SCHOOL",
+      "school_district": "CEDAR PARK MONTESSORI SCHOOL",
+      "scouting_district": "North Shore",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851244",
+      "school_name": "CEDARS ACADEMY NEXT GENERATION H S AT HIGHLAND",
+      "school_district": "CEDARS INTERNATIONAL ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851593",
+      "school_name": "CEDARS INTERNATIONAL ACADEMY",
+      "school_district": "CEDARS INTERNATIONAL ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876218",
+      "school_name": "CEDARS MONTESSORI SCHOOL",
+      "school_district": "CEDARS MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805565",
+      "school_name": "CHAPARRAL STAR ACADEMY",
+      "school_district": "CHAPARRAL STAR ACADEMY",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876509",
+      "school_name": "CITY SCHOOL",
+      "school_district": "CITY SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851955",
+      "school_name": "CLEARVIEW SUDBURY SCHOOL",
+      "school_district": "CLEARVIEW SUDBURY SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876501",
+      "school_name": "COMMUNITY MONTESSORI SCHOOL",
+      "school_district": "COMMUNITY MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876167",
+      "school_name": "CONCORDIA HIGH SCHOOL",
+      "school_district": "CONCORDIA HIGH SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457852018",
+      "school_name": "CROSSLIFE CHRISTIAN ACADEMY",
+      "school_district": "CROSSLIFE CHRISTIAN ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876267",
+      "school_name": "CUERO H S",
+      "school_district": "CUERO ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876309",
+      "school_name": "CUERO J H",
+      "school_district": "CUERO ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876398",
+      "school_name": "HUNT EL",
+      "school_district": "CUERO ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876425",
+      "school_name": "J C FRENCH EL",
+      "school_district": "CUERO ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851953",
+      "school_name": "BATY EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850179",
+      "school_name": "CREEDMOOR EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Thunderbird",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851498",
+      "school_name": "DAILEY MIDDLE",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851305",
+      "school_name": "DEL VALLE DAEP",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851044",
+      "school_name": "DEL VALLE EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851992",
+      "school_name": "DEL VALLE H S",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850708",
+      "school_name": "DEL VALLE HIGH SCHOOL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851391",
+      "school_name": "DEL VALLE MIDDLE",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851218",
+      "school_name": "DEL VALLE OPPORTUNITY CTR",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851859",
+      "school_name": "HILLCREST EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852015",
+      "school_name": "HORNSBY-DUNLAP EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851447",
+      "school_name": "JOHN P OJEDA MIDDLE",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851076",
+      "school_name": "JOSEPH GILBERT EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851120",
+      "school_name": "NEWTON COLLINS EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851592",
+      "school_name": "POPHAM EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876115",
+      "school_name": "SMITH EL",
+      "school_district": "DEL VALLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850259",
+      "school_name": "DIME BOX SCHOOL",
+      "school_district": "DIME BOX ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851745",
+      "school_name": "DIVINE SAVIOR ACADEMY - SANTA RITA RANCH",
+      "school_district": "DIVINE SAVIOR ACADEMY - SANTA RITA RANCH",
+      "scouting_district": "San Gabriel",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457828384",
+      "school_name": "DORAL ACADEMY OF TEXAS",
+      "school_district": "DORAL ACADEMY OF TEXAS",
+      "scouting_district": "Sacred Springs",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851313",
+      "school_name": "DOSS EL",
+      "school_district": "DOSS CONSOLIDATED CSD",
+      "scouting_district": "Hill Country",
+      "district_type": "COMMON"
+    },
+    {
+      "monday_item_id": "12457850996",
+      "school_name": "CYPRESS SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805562",
+      "school_name": "DRIPPING SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805619",
+      "school_name": "DRIPPING SPRINGS H S",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805721",
+      "school_name": "DRIPPING SPRINGS MIDDLE",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850819",
+      "school_name": "ROOSTER SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850894",
+      "school_name": "SYCAMORE SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828388",
+      "school_name": "SYCAMORE SPRINGS MIDDLE",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805713",
+      "school_name": "WALNUT SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805650",
+      "school_name": "WILDWOOD SPRINGS EL",
+      "school_district": "DRIPPING SPRINGS ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851742",
+      "school_name": "BARTON CREEK EL",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851938",
+      "school_name": "BRIDGE POINT EL",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851597",
+      "school_name": "CEDAR CREEK EL",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851559",
+      "school_name": "EANES EL",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851697",
+      "school_name": "FOREST TRAIL EL",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851392",
+      "school_name": "HILL COUNTRY MIDDLE",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851450",
+      "school_name": "WEST RIDGE MIDDLE",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851303",
+      "school_name": "WESTLAKE H S",
+      "school_district": "EANES ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876451",
+      "school_name": "BOOKER T WASHINGTON EL",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876467",
+      "school_name": "ELGIN EL",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851862",
+      "school_name": "ELGIN H S",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851307",
+      "school_name": "ELGIN INT",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851241",
+      "school_name": "ELGIN MIDDLE",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850668",
+      "school_name": "HARVEST RIDGE EL",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876485",
+      "school_name": "NEIDIG EL",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850707",
+      "school_name": "TRINITY RANCH EL",
+      "school_district": "ELGIN ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850414",
+      "school_name": "EMMANUEL CHRISTIAN SCHOOL",
+      "school_district": "EMMANUEL CHRISTIAN SCHOOL",
+      "scouting_district": "Live Oak",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851411",
+      "school_name": "EZZELL SCHOOL",
+      "school_district": "EZZELL ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876273",
+      "school_name": "FAITH ACADEMY OF MARBLE FALLS",
+      "school_district": "FAITH ACADEMY OF MARBLE FALLS",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850504",
+      "school_name": "FAYETTEVILLE SCHOOLS",
+      "school_district": "FAYETTEVILLE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851268",
+      "school_name": "FBC SONSHINE ACADEMY",
+      "school_district": "FBC SONSHINE ACADEMY",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850534",
+      "school_name": "FLATONIA EL",
+      "school_district": "FLATONIA ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850459",
+      "school_name": "FLATONIA SECONDARY",
+      "school_district": "FLATONIA ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851858",
+      "school_name": "FLORENCE EL",
+      "school_district": "FLORENCE ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851368",
+      "school_name": "FLORENCE H S",
+      "school_district": "FLORENCE ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851815",
+      "school_name": "FLORENCE MIDDLE",
+      "school_district": "FLORENCE ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850181",
+      "school_name": "FREDERICKSBURG EL",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851395",
+      "school_name": "FREDERICKSBURG H S",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805842",
+      "school_name": "FREDERICKSBURG MIDDLE",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850412",
+      "school_name": "FREDERICKSBURG PRI",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805651",
+      "school_name": "GILLESPIE COUNTY H S",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850307",
+      "school_name": "STONEWALL EL",
+      "school_district": "FREDERICKSBURG ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876497",
+      "school_name": "FUSION ACADEMY AUS: AUSTIN",
+      "school_district": "FUSION ACADEMY AUS: AUSTIN",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876117",
+      "school_name": "ANNIE PURL EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876200",
+      "school_name": "CARVER EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876272",
+      "school_name": "CHARLES A FORBES MIDDLE",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851989",
+      "school_name": "CHIP RICHARTE H S",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876195",
+      "school_name": "DOUGLAS BENOLD MIDDLE",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876429",
+      "school_name": "EAST VIEW H S",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851047",
+      "school_name": "EAST VIEW HIGH SCHOOL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876251",
+      "school_name": "FROST EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876310",
+      "school_name": "GEORGE WAGNER MIDDLE",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876402",
+      "school_name": "GEORGETOWN ALTER PROG",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851933",
+      "school_name": "GEORGETOWN H S",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850853",
+      "school_name": "GEORGETOWN HIGH SCHOOL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876469",
+      "school_name": "JAMES E MITCHELL EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876220",
+      "school_name": "JAMES TIPPIT MIDDLE",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876449",
+      "school_name": "JO ANN FORD EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876303",
+      "school_name": "PAT COOPER EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876404",
+      "school_name": "RAYE MCCOY EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851987",
+      "school_name": "S T E P - DETENTION",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851931",
+      "school_name": "SAN GABRIEL EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876431",
+      "school_name": "VILLAGE EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851819",
+      "school_name": "WILLIAMS EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876382",
+      "school_name": "WOLF RANCH EL",
+      "school_district": "GEORGETOWN ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851393",
+      "school_name": "GIDDINGS EL",
+      "school_district": "GIDDINGS ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851453",
+      "school_name": "GIDDINGS H S",
+      "school_district": "GIDDINGS ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851898",
+      "school_name": "GIDDINGS INT",
+      "school_district": "GIDDINGS ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851309",
+      "school_name": "GIDDINGS MIDDLE",
+      "school_district": "GIDDINGS ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850712",
+      "school_name": "GONZALES EL",
+      "school_district": "GONZALES ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850535",
+      "school_name": "GONZALES H S",
+      "school_district": "GONZALES ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850632",
+      "school_name": "GONZALES J H",
+      "school_district": "GONZALES ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850784",
+      "school_name": "GONZALES NORTH AVENUE",
+      "school_district": "GONZALES ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850855",
+      "school_name": "GONZALES PRI ACADEMY",
+      "school_district": "GONZALES ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876506",
+      "school_name": "GOOD SHEPHERD EPISCOPAL SCHOOL",
+      "school_district": "GOOD SHEPHERD EPISCOPAL SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850589",
+      "school_name": "GOOD SHEPHERD LUTHERAN SCHOOL",
+      "school_district": "GOOD SHEPHERD LUTHERAN SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851239",
+      "school_name": "GOODWATER MONTESSORI SCHOOL",
+      "school_district": "GOODWATER MONTESSORI SCHOOL",
+      "scouting_district": "San Gabriel",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851852",
+      "school_name": "GRACE ACADEMY OF GEORGETOWN",
+      "school_district": "GRACE ACADEMY OF GEORGETOWN",
+      "scouting_district": "San Gabriel",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876111",
+      "school_name": "GRANGER SCHOOL",
+      "school_district": "GRANGER ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850309",
+      "school_name": "GREAT MINDS LEARNING COMMUNITY",
+      "school_district": "GREAT MINDS LEARNING COMMUNITY",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876504",
+      "school_name": "GRIFFIN SCHOOL",
+      "school_district": "GRIFFIN SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851863",
+      "school_name": "HALLETTSVILLE EL",
+      "school_district": "HALLETTSVILLE ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851211",
+      "school_name": "HALLETTSVILLE H S",
+      "school_district": "HALLETTSVILLE ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851245",
+      "school_name": "HALLETTSVILLE J H",
+      "school_district": "HALLETTSVILLE ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851189",
+      "school_name": "HARBOR LEADERSHIP ACADEMY",
+      "school_district": "HARBOR LEADERSHIP ACADEMY",
+      "scouting_district": "North Shore",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805384",
+      "school_name": "HARMONY SCHOOL OF ENDEAVOR AUSTIN",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876426",
+      "school_name": "HARMONY SCHOOL OF EXCELLENCE - AUSTIN",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850355",
+      "school_name": "HARMONY SCIENCE ACADEMY - AUSTIN",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851476",
+      "school_name": "HARMONY SCIENCE ACADEMY - CEDAR PARK",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "North Shore",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851212",
+      "school_name": "HARMONY SCIENCE ACADEMY - GEORGETOWN",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851555",
+      "school_name": "HARMONY SCIENCE ACADEMY - LEANDER",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "North Shore",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850257",
+      "school_name": "HARMONY SCIENCE ACADEMY-PFLUGERVILLE",
+      "school_district": "HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850669",
+      "school_name": "HARPER EL",
+      "school_district": "HARPER ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850461",
+      "school_name": "HARPER H S",
+      "school_district": "HARPER ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850586",
+      "school_name": "HARPER MIDDLE",
+      "school_district": "HARPER ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850263",
+      "school_name": "ALTER IMPACT CTR",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850957",
+      "school_name": "ARMANDO CHAPA MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851935",
+      "school_name": "BLANCO VISTA EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851451",
+      "school_name": "BUDA EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876162",
+      "school_name": "CAMINO REAL EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876201",
+      "school_name": "CARPENTER HILL EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851069",
+      "school_name": "D J RED SIMON MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851141",
+      "school_name": "DR T C MCCORMICK JR MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851497",
+      "school_name": "ELM GROVE EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850737",
+      "school_name": "ERIC DAHLSTROM MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851790",
+      "school_name": "HEMPHILL EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850176",
+      "school_name": "JACK C HAYS H S",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876384",
+      "school_name": "JIM CULLEN EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851215",
+      "school_name": "KYLE EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851950",
+      "school_name": "LAMONT RAMAGE EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851956",
+      "school_name": "LAURA B NEGLEY EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850852",
+      "school_name": "LAURA B WALLACE MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850501",
+      "school_name": "LEHMAN H S",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850388",
+      "school_name": "LIVE OAK ACADEMY",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850587",
+      "school_name": "MOE AND GENE JOHNSON H S",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850689",
+      "school_name": "R C BARTON MIDDLE",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876252",
+      "school_name": "RALPH PFLUGER EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852019",
+      "school_name": "SCIENCE HALL EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851895",
+      "school_name": "SUNFIELD EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851578",
+      "school_name": "SUSIE FUENTES EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851896",
+      "school_name": "TOBIAS EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851271",
+      "school_name": "TOM GREEN EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876305",
+      "school_name": "UHLAND EL",
+      "school_district": "HAYS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851396",
+      "school_name": "HEADWATERS SCHOOL",
+      "school_district": "HEADWATERS SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876270",
+      "school_name": "HEADWATERS SCHOOL",
+      "school_district": "HEADWATERS SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851472",
+      "school_name": "HEADWATERS SCHOOL",
+      "school_district": "HEADWATERS SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876216",
+      "school_name": "HEADWATERS SCHOOL - River Campus",
+      "school_district": "HEADWATERS SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850667",
+      "school_name": "HEADWATERS SCHOOL ELEMENTARY CAMPUS",
+      "school_district": "HEADWATERS SCHOOL ELEMENTARY CAMPUS",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876221",
+      "school_name": "HERITAGE SCHOOL",
+      "school_district": "HERITAGE SCHOOL",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876255",
+      "school_name": "HILL COUNTRY CHRISTIAN SCHOOL OF SAN MARCOS",
+      "school_district": "HILL COUNTRY CHRISTIAN SCHOOL OF SAN MARCOS",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851822",
+      "school_name": "HOLY FAMILY CATHOLIC SCHOOL",
+      "school_district": "HOLY FAMILY CATHOLIC SCHOOL",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876306",
+      "school_name": "HUNTINGTON-SURREY HIGH SCHOOL",
+      "school_district": "HUNTINGTON-SURREY HIGH SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851902",
+      "school_name": "BENJAMIN DOC KERLEY EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851642",
+      "school_name": "COTTONWOOD CREEK EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876307",
+      "school_name": "FARLEY MIDDLE",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876387",
+      "school_name": "GUS ALMQUIST",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851860",
+      "school_name": "HOWARD NORMAN EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876428",
+      "school_name": "HUTTO EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876166",
+      "school_name": "HUTTO H S",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850782",
+      "school_name": "HUTTO HIGH SCHOOL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876257",
+      "school_name": "HUTTO MIDDLE",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876213",
+      "school_name": "HUTTO NINTH GRADE CENTER",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851703",
+      "school_name": "HUTTO VIRTUAL ACADEMY",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851577",
+      "school_name": "LEE MARTINEZ EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805655",
+      "school_name": "NADINE JOHNSON EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851747",
+      "school_name": "RAY EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851817",
+      "school_name": "VETERANS HILL EL",
+      "school_district": "HUTTO ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876388",
+      "school_name": "HYDE PARK SCHOOLS",
+      "school_district": "HYDE PARK SCHOOLS",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850507",
+      "school_name": "IMMANUEL LUTHERAN SCHOOL",
+      "school_district": "IMMANUEL LUTHERAN SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876427",
+      "school_name": "INTERNATIONAL SCHOOL OF TEXAS",
+      "school_district": "INTERNATIONAL SCHOOL OF TEXAS",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850663",
+      "school_name": "DOUBLE CREEK EL",
+      "school_district": "JARRELL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850584",
+      "school_name": "IGO EL",
+      "school_district": "JARRELL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850462",
+      "school_name": "JARRELL EL",
+      "school_district": "JARRELL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805560",
+      "school_name": "JARRELL H S",
+      "school_district": "JARRELL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850387",
+      "school_name": "JARRELL MIDDLE",
+      "school_district": "JARRELL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850581",
+      "school_name": "LYNDON B JOHNSON EL",
+      "school_district": "JOHNSON CITY ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851117",
+      "school_name": "LYNDON B JOHNSON H S",
+      "school_district": "JOHNSON CITY ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851169",
+      "school_name": "LYNDON B JOHNSON MIDDLE",
+      "school_district": "JOHNSON CITY ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851596",
+      "school_name": "KATHERINE ANNE PORTER SCHOOL",
+      "school_district": "KATHERINE ANNE PORTER SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851705",
+      "school_name": "KI CHARTER ACADEMY",
+      "school_district": "KI CHARTER",
+      "scouting_district": "Sacred Springs",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851067",
+      "school_name": "KI CHARTER ACADEMY LIBERTY HILL",
+      "school_district": "KI CHARTER",
+      "scouting_district": "Sacred Springs",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850416",
+      "school_name": "KINGDOM HEIGHTS CHRISTIAN SCHOOL",
+      "school_district": "KINGDOM HEIGHTS CHRISTIAN SCHOOL",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457829682",
+      "school_name": "KIPP ALEGRIA PRI",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851316",
+      "school_name": "KIPP AUSTIN ACADEMY OF ARTS & LETTERS",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851635",
+      "school_name": "KIPP AUSTIN BEACON PREP",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851714",
+      "school_name": "KIPP AUSTIN BRAVE",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851272",
+      "school_name": "KIPP AUSTIN COLLEGE PREP",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850460",
+      "school_name": "KIPP AUSTIN COLLEGIATE",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457805715",
+      "school_name": "KIPP AUSTIN COMUNIDAD",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850206",
+      "school_name": "KIPP AUSTIN OBRAS",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851818",
+      "school_name": "KIPP PASEO PREPARATORY SCHOOL",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850305",
+      "school_name": "KIPP PASEO PRI",
+      "school_district": "KIPP TEXAS PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876399",
+      "school_name": "KIRBY HALL SCHOOL",
+      "school_district": "KIRBY HALL SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850264",
+      "school_name": "LA GRANGE EL",
+      "school_district": "LA GRANGE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850628",
+      "school_name": "LA GRANGE H S",
+      "school_district": "LA GRANGE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850204",
+      "school_name": "LA GRANGE MIDDLE",
+      "school_district": "LA GRANGE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876308",
+      "school_name": "LADY BIRD MONTESSORI SCHOOL",
+      "school_district": "LADY BIRD MONTESSORI SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876274",
+      "school_name": "LAGO VISTA EL",
+      "school_district": "LAGO VISTA ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850951",
+      "school_name": "LAGO VISTA H S",
+      "school_district": "LAGO VISTA ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851071",
+      "school_name": "LAGO VISTA INT",
+      "school_district": "LAGO VISTA ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851016",
+      "school_name": "LAGO VISTA MIDDLE",
+      "school_district": "LAGO VISTA ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851857",
+      "school_name": "LAKE HILLS MONTESSORI-BEE CAVE",
+      "school_district": "LAKE HILLS MONTESSORI-BEE CAVE",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851166",
+      "school_name": "BEE CAVE EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851170",
+      "school_name": "BEE CAVE MIDDLE",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851080",
+      "school_name": "HUDSON BEND MIDDLE",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851213",
+      "school_name": "LAKE POINTE EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851112",
+      "school_name": "LAKE TRAVIS EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850995",
+      "school_name": "LAKE TRAVIS H S",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850919",
+      "school_name": "LAKE TRAVIS HIGH SCHOOL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851043",
+      "school_name": "LAKE TRAVIS MIDDLE",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851173",
+      "school_name": "LAKEWAY EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851371",
+      "school_name": "ROUGH HOLLOW EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851266",
+      "school_name": "SERENE HILLS EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851310",
+      "school_name": "WEST CYPRESS HILLS EL",
+      "school_district": "LAKE TRAVIS ISD",
+      "scouting_district": "Bee Cave",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851899",
+      "school_name": "LAKE TRAVIS STEM ACADEMY",
+      "school_district": "LAKE TRAVIS STEM ACADEMY",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876430",
+      "school_name": "LAKECREEK MONTESSORI INTERNATIONAL SCHOOL",
+      "school_district": "LAKECREEK MONTESSORI INTERNATIONAL SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805744",
+      "school_name": "AKIN EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876432",
+      "school_name": "ARTIE L HENRY MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850890",
+      "school_name": "BAGDAD EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850711",
+      "school_name": "BLOCK HOUSE CREEK EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850386",
+      "school_name": "BUSH EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850821",
+      "school_name": "C C MASON EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805716",
+      "school_name": "CAMACHO EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876448",
+      "school_name": "CANYON RIDGE MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851937",
+      "school_name": "CEDAR PARK H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850918",
+      "school_name": "CEDAR PARK MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850182",
+      "school_name": "COX EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850780",
+      "school_name": "CYPRESS EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850203",
+      "school_name": "DANIELSON MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850457",
+      "school_name": "DEER CREEK EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850854",
+      "school_name": "DENISE GEIGER COMPASS CENTER",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850815",
+      "school_name": "EARLY COLLEGE H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876480",
+      "school_name": "FOUR POINTS MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850891",
+      "school_name": "GIDDENS EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876217",
+      "school_name": "GLENN H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805445",
+      "school_name": "GRANDVIEW HILLS EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850583",
+      "school_name": "HISLE Elementary",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850500",
+      "school_name": "JIM PLAIN EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850303",
+      "school_name": "KNOWLES EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876465",
+      "school_name": "KNOX WILEY MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805843",
+      "school_name": "LARKSPUR EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851589",
+      "school_name": "LEANDER EXTENDED OPPORTUNITY",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851855",
+      "school_name": "LEANDER H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851084",
+      "school_name": "LEANDER MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850816",
+      "school_name": "NAUMANN EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851416",
+      "school_name": "NEW HOPE H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850207",
+      "school_name": "NORTH EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797604",
+      "school_name": "PARKSIDE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850384",
+      "school_name": "PLEASANT HILL EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805654",
+      "school_name": "REED EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850690",
+      "school_name": "RIVER PLACE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805615",
+      "school_name": "RIVER RIDGE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805617",
+      "school_name": "RONALD REAGAN EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876163",
+      "school_name": "ROUSE H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876400",
+      "school_name": "RUNNING BRUSHY MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850531",
+      "school_name": "RUTLEDGE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850739",
+      "school_name": "STEINER RANCH EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805747",
+      "school_name": "STILES MIDDLE",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829688",
+      "school_name": "TARVIN EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851014",
+      "school_name": "VANDEGRIFT H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852016",
+      "school_name": "VISTA RIDGE H S",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805446",
+      "school_name": "WESTSIDE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850691",
+      "school_name": "WHITESTONE EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850629",
+      "school_name": "WILLIAM J WINKLEY EL",
+      "school_district": "LEANDER ISD",
+      "scouting_district": "North Shore",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850177",
+      "school_name": "LEXINGTON EL",
+      "school_district": "LEXINGTON ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457852014",
+      "school_name": "LEXINGTON H S",
+      "school_district": "LEXINGTON ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876161",
+      "school_name": "LEXINGTON MIDDLE",
+      "school_district": "LEXINGTON ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851115",
+      "school_name": "BAR W EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876269",
+      "school_name": "BILL BURDEN EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850997",
+      "school_name": "LEGACY RANCH H S",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851042",
+      "school_name": "LIBERTY HILL EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850714",
+      "school_name": "LIBERTY HILL H S",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850785",
+      "school_name": "LIBERTY HILL MIDDLE",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851078",
+      "school_name": "LOUINE NOBLE EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876380",
+      "school_name": "RANCHO SIENNA EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851048",
+      "school_name": "SANTA RITA EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850888",
+      "school_name": "SANTA RITA MIDDLE",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850306",
+      "school_name": "TIERRA ROSA EL",
+      "school_district": "LIBERTY HILL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851903",
+      "school_name": "LITTLE TIGER CHINESE IMMERSION SCHOOL",
+      "school_district": "LITTLE TIGER CHINESE IMMERSION SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876198",
+      "school_name": "LLANO CHRISTIAN ACADEMY",
+      "school_district": "LLANO CHRISTIAN ACADEMY",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851475",
+      "school_name": "LLANO EL",
+      "school_district": "LLANO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850350",
+      "school_name": "LLANO H S",
+      "school_district": "LLANO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850390",
+      "school_name": "LLANO J H",
+      "school_district": "LLANO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851560",
+      "school_name": "PACKSADDLE EL",
+      "school_district": "LLANO ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850820",
+      "school_name": "ALMA BREWER STRAWN EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850741",
+      "school_name": "BLUEBONNET EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850893",
+      "school_name": "BORCHERT LOOP EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850349",
+      "school_name": "CLEAR FORK EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850892",
+      "school_name": "GEORGE W CARVER EARLY EDUCATION CENTER",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805741",
+      "school_name": "LOCKHART H S",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850208",
+      "school_name": "LOCKHART J H",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829683",
+      "school_name": "LOCKHART PRIDE H S",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850391",
+      "school_name": "NAVARRO EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850694",
+      "school_name": "PLUM CREEK EL",
+      "school_district": "LOCKHART ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876113",
+      "school_name": "LOCKHART MONTESSORI SCHOOL",
+      "school_district": "LOCKHART MONTESSORI SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851168",
+      "school_name": "LONE STAR H S SOUTHEAST (TJJD)",
+      "school_district": "LONE STAR SCHOOL DISTRICT",
+      "scouting_district": "Unassigned",
+      "district_type": "TJJD"
+    },
+    {
+      "monday_item_id": "12457876511",
+      "school_name": "LONG-VIEW MICRO SCHOOL",
+      "school_district": "LONG-VIEW MICRO SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851045",
+      "school_name": "GILBERT GERDES J H",
+      "school_district": "LULING ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851079",
+      "school_name": "LEONARD SHANKLIN EL",
+      "school_district": "LULING ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850958",
+      "school_name": "LULING H S",
+      "school_district": "LULING ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851072",
+      "school_name": "BLAKE MANOR EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850950",
+      "school_name": "BLUEBONNET TRAIL EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851017",
+      "school_name": "DECKER EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850415",
+      "school_name": "DECKER MIDDLE",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851415",
+      "school_name": "LAGOS EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850205",
+      "school_name": "MANOR EXCEL ACADEMY",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805846",
+      "school_name": "MANOR H S",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850308",
+      "school_name": "MANOR MIDDLE",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850532",
+      "school_name": "MANOR NEW TECHNOLOGY HIGH",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850817",
+      "school_name": "MANOR NEW TECHNOLOGY MIDDLE",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805621",
+      "school_name": "MANOR RISE ACADEMY",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851314",
+      "school_name": "OAK MEADOWS EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851217",
+      "school_name": "PIONEER CROSSING EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851118",
+      "school_name": "PRESIDENTIAL MEADOWS EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851311",
+      "school_name": "SHADOWGLEN EL",
+      "school_district": "MANOR ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876381",
+      "school_name": "MARBLE FALLS ACADEMY",
+      "school_district": "MARBLE FALLS ACADEMY",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851142",
+      "school_name": "COLT EL",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850922",
+      "school_name": "FALLS CAREER H S",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851188",
+      "school_name": "HIGHLAND LAKES EL",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851075",
+      "school_name": "MARBLE FALLS EL",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850347",
+      "school_name": "MARBLE FALLS H S",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851019",
+      "school_name": "MARBLE FALLS MIDDLE",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851267",
+      "school_name": "SPICEWOOD EL",
+      "school_district": "MARBLE FALLS ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876447",
+      "school_name": "MARIPOSA MONTESSORI SCHOOL",
+      "school_district": "MARIPOSA MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850736",
+      "school_name": "MARIPOSA MONTESSORI SCHOOL",
+      "school_district": "MARIPOSA MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851674",
+      "school_name": "MARIPOSA MONTESSORI SCHOOL",
+      "school_district": "MARIPOSA MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876406",
+      "school_name": "MARIPOSA MONTESSORI SCHOOL",
+      "school_district": "MARIPOSA MONTESSORI SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851789",
+      "school_name": "MASON EL",
+      "school_district": "MASON ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851636",
+      "school_name": "MASON H S",
+      "school_district": "MASON ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851706",
+      "school_name": "MASON J H",
+      "school_district": "MASON ISD",
+      "scouting_district": "Hill Country",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851070",
+      "school_name": "MCDADE EL",
+      "school_district": "MCDADE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851015",
+      "school_name": "MCDADE H S",
+      "school_district": "MCDADE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850304",
+      "school_name": "MERIDIAN WORLD SCHOOL LLC",
+      "school_district": "MERIDIAN WORLD SCHOOL LLC",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850411",
+      "school_name": "MEYERSVILLE EL",
+      "school_district": "MEYERSVILLE ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850783",
+      "school_name": "MAGNOLIA MONTESSORI FOR ALL",
+      "school_district": "MONTESSORI FOR ALL",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851046",
+      "school_name": "MOULTON EL",
+      "school_district": "MOULTON ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851273",
+      "school_name": "MOULTON H S",
+      "school_district": "MOULTON ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851452",
+      "school_name": "NIXON SMILEY EL",
+      "school_district": "NIXON-SMILEY CISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850781",
+      "school_name": "NIXON-SMILEY CISD DAEP",
+      "school_district": "NIXON-SMILEY CISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850710",
+      "school_name": "NIXON-SMILEY H S",
+      "school_district": "NIXON-SMILEY CISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851240",
+      "school_name": "NIXON-SMILEY MIDDLE",
+      "school_district": "NIXON-SMILEY CISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850822",
+      "school_name": "NIXON-SMILEY PACE",
+      "school_district": "NIXON-SMILEY CISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828393",
+      "school_name": "NORDHEIM SCHOOL",
+      "school_district": "NORDHEIM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829685",
+      "school_name": "NYOS LAMAR EL",
+      "school_district": "NYOS CHARTER SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457805720",
+      "school_name": "NYOS LAMAR SECONDARY",
+      "school_district": "NYOS CHARTER SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851856",
+      "school_name": "ODYSSEY SCHOOL",
+      "school_district": "ODYSSEY SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851554",
+      "school_name": "PALOMA MONTESSORI SCHOOL",
+      "school_district": "PALOMA MONTESSORI SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851591",
+      "school_name": "PARAGON PREPARATORY INC",
+      "school_district": "PARAGON PREPARATORY INC",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851713",
+      "school_name": "PATHWAYS SCHOOL AT DS METHODIST",
+      "school_district": "PATHWAYS SCHOOL AT DS METHODIST",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850895",
+      "school_name": "BOHLS MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851184",
+      "school_name": "BROOKHOLLOW EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850413",
+      "school_name": "CALDWELL EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805839",
+      "school_name": "CARPENTER EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850823",
+      "school_name": "CELE MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850209",
+      "school_name": "COPPERFIELD EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805841",
+      "school_name": "DEARING EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851139",
+      "school_name": "DESSAU EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850709",
+      "school_name": "DESSAU MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851083",
+      "school_name": "HENDRICKSON H S",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805444",
+      "school_name": "HIDDEN LAKE EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851676",
+      "school_name": "HIGHLAND PARK EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851018",
+      "school_name": "JOHN B CONNALLY H S",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850696",
+      "school_name": "KELLY LANE MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797601",
+      "school_name": "MOTT EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851243",
+      "school_name": "MURCHISON EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851490",
+      "school_name": "NORTHWEST EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850664",
+      "school_name": "PARK CREST MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851372",
+      "school_name": "PARMER LANE EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851308",
+      "school_name": "PFLUGERVILLE EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851712",
+      "school_name": "PFLUGERVILLE H S",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850530",
+      "school_name": "PFLUGERVILLE MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851791",
+      "school_name": "RIOJAS EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805745",
+      "school_name": "RIVER OAKS EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851634",
+      "school_name": "ROWE LANE EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851219",
+      "school_name": "RUTH BARRON EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829689",
+      "school_name": "SPRINGHILL EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851445",
+      "school_name": "TIMMERMAN EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850458",
+      "school_name": "WEISS H S",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850626",
+      "school_name": "WESTVIEW MIDDLE",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851174",
+      "school_name": "WIELAND EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850351",
+      "school_name": "WILHELMINA DELCO EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805618",
+      "school_name": "WINDERMERE EL",
+      "school_district": "PFLUGERVILLE ISD",
+      "scouting_district": "Armadillo",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851854",
+      "school_name": "PRAIRIE LEA EL",
+      "school_district": "PRAIRIE LEA ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876214",
+      "school_name": "PRAIRIE LEA H S",
+      "school_district": "PRAIRIE LEA ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876463",
+      "school_name": "PRIMROSE SCHOOL OF SHADY HOLLOW",
+      "school_district": "PRIMROSE SCHOOL OF SHADY HOLLOW",
+      "scouting_district": "Thunderbird",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876443",
+      "school_name": "REDEEMER LUTHERAN SCHOOL",
+      "school_district": "REDEEMER LUTHERAN SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876446",
+      "school_name": "REGENTS SCHOOL OF AUSTIN",
+      "school_district": "REGENTS SCHOOL OF AUSTIN",
+      "scouting_district": "Thunderbird",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851951",
+      "school_name": "RENAISSANCE ACADEMY",
+      "school_district": "RENAISSANCE ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850914",
+      "school_name": "ROSANKY CHRISTIAN ACADEMY (ROSANKY BAPTIST CHURCH)",
+      "school_district": "ROSANKY CHRISTIAN ACADEMY (ROSANKY BAPTIST CHURCH)",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850508",
+      "school_name": "ROUND ROCK CHRISTIAN ACADEMY",
+      "school_district": "ROUND ROCK CHRISTIAN ACADEMY",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851191",
+      "school_name": "ANDERSON MILL EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851986",
+      "school_name": "BLACKLAND PRAIRIE EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851366",
+      "school_name": "BLUEBONNET EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850955",
+      "school_name": "BRUSHY CREEK EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805844",
+      "school_name": "C D FULKES MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876110",
+      "school_name": "CACTUS RANCH EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851641",
+      "school_name": "CALDWELL HEIGHTS EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851496",
+      "school_name": "CANYON CREEK EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850385",
+      "school_name": "CANYON VISTA MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805385",
+      "school_name": "CEDAR RIDGE H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851003",
+      "school_name": "CEDAR RIDGE HIGH SCHOOL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Unassigned",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876487",
+      "school_name": "CEDAR VALLEY MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876254",
+      "school_name": "CHANDLER OAKS EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850265",
+      "school_name": "CHISHOLM TRAIL MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850953",
+      "school_name": "CLAUDE BERKMAN EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851077",
+      "school_name": "DEEP WOOD EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850738",
+      "school_name": "DEERPARK MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851446",
+      "school_name": "DOUBLE FILE TRAIL EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876401",
+      "school_name": "ELSA ENGLAND EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851397",
+      "school_name": "FERN BLUFF EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851579",
+      "school_name": "FOREST CREEK EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851146",
+      "school_name": "FOREST NORTH EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851302",
+      "school_name": "GATTIS EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805652",
+      "school_name": "GREAT OAKS EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850952",
+      "school_name": "HOPEWELL MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876503",
+      "school_name": "JAMES GARLAND WALSH MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851704",
+      "school_name": "JOE LEE JOHNSON EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851448",
+      "school_name": "JOLLYVILLE EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850856",
+      "school_name": "KATHY CARAWAY EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851081",
+      "school_name": "LAUREL MOUNTAIN EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876383",
+      "school_name": "LINDA HERRINGTON EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851238",
+      "school_name": "LIVE OAK EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797608",
+      "school_name": "MCNEIL H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805743",
+      "school_name": "NEYSA CALLISON EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850180",
+      "school_name": "NOEL GRISHAM MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851364",
+      "school_name": "OLD TOWN EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876203",
+      "school_name": "PATSY SOMMER EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876507",
+      "school_name": "PEARSON RANCH MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876505",
+      "school_name": "PFC ROBERT P HERNANDEZ MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851185",
+      "school_name": "POND SPRINGS EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851304",
+      "school_name": "PURPLE SAGE EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876165",
+      "school_name": "REDBUD EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876499",
+      "school_name": "RIDGEVIEW MIDDLE",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851172",
+      "school_name": "ROUND ROCK H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851270",
+      "school_name": "ROUND ROCK OPPORT CTR DAEP",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805718",
+      "school_name": "RRISD EARLY COLLEGE H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829687",
+      "school_name": "RRISDPK3P",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797602",
+      "school_name": "S T E P - C O R E",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850740",
+      "school_name": "SPICEWOOD EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828390",
+      "school_name": "STONY POINT H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805567",
+      "school_name": "SUCCESS H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851670",
+      "school_name": "TERAVISTA EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876275",
+      "school_name": "UNION HILL EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851246",
+      "school_name": "VIC ROBERTSON EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851020",
+      "school_name": "WELLS BRANCH EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828386",
+      "school_name": "WESTWOOD H S",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851021",
+      "school_name": "XENIA VOIGT EL",
+      "school_district": "ROUND ROCK ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851000",
+      "school_name": "ROUND TOP-CARMINE EL",
+      "school_district": "ROUND TOP-CARMINE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850917",
+      "school_name": "ROUND TOP-CARMINE H S",
+      "school_district": "ROUND TOP-CARMINE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851867",
+      "school_name": "SACRED HEART CATHOLIC SCHOOL",
+      "school_district": "SACRED HEART CATHOLIC SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851934",
+      "school_name": "SACRED HEART SCHOOL",
+      "school_district": "SACRED HEART SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876160",
+      "school_name": "SAN MARCOS BAPTIST ACADEMY",
+      "school_district": "SAN MARCOS BAPTIST ACADEMY",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805386",
+      "school_name": "BONHAM PRE-K SCHOOL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805840",
+      "school_name": "BOWIE EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850184",
+      "school_name": "CROCKETT EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850310",
+      "school_name": "DEZAVALA EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805387",
+      "school_name": "GOODNIGHT MIDDLE",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850529",
+      "school_name": "HERNANDEZ EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850631",
+      "school_name": "MENDEZ EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805564",
+      "school_name": "MILLER MIDDLE",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850695",
+      "school_name": "RODRIGUEZ EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457797600",
+      "school_name": "SAN MARCOS EXCEL ACADEMY",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828383",
+      "school_name": "SAN MARCOS H S",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850455",
+      "school_name": "TRAVIS EL",
+      "school_district": "SAN MARCOS CISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851743",
+      "school_name": "SANTA CRUZ CATHOLIC SCHOOL",
+      "school_district": "SANTA CRUZ CATHOLIC SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876483",
+      "school_name": "SAPIENTIA MONTESSORI SCHOOL",
+      "school_district": "SAPIENTIA MONTESSORI SCHOOL",
+      "scouting_district": "North Shore",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850418",
+      "school_name": "SCHULENBURG EL",
+      "school_district": "SCHULENBURG ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850383",
+      "school_name": "SCHULENBURG SECONDARY",
+      "school_district": "SCHULENBURG ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851990",
+      "school_name": "SEVENTH ADVENTIST JR ACADEMY",
+      "school_district": "SEVENTH ADVENTIST JR ACADEMY",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851171",
+      "school_name": "SHINER CATHOLIC SCHOOL",
+      "school_district": "SHINER CATHOLIC SCHOOL",
+      "scouting_district": "Live Oak",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851993",
+      "school_name": "SHINER EL",
+      "school_district": "SHINER ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851082",
+      "school_name": "SHINER H S",
+      "school_district": "SHINER ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850916",
+      "school_name": "SMITHVILLE EL",
+      "school_district": "SMITHVILLE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850786",
+      "school_name": "SMITHVILLE H S",
+      "school_district": "SMITHVILLE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850859",
+      "school_name": "SMITHVILLE J H",
+      "school_district": "SMITHVILLE ISD",
+      "scouting_district": "Colorado River",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876215",
+      "school_name": "ST AUSTIN CATHOLIC SCHOOL",
+      "school_district": "ST AUSTIN CATHOLIC SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850352",
+      "school_name": "ST DOMINIC SAVIO CATHOLIC HIGH SCHOOL",
+      "school_district": "ST DOMINIC SAVIO CATHOLIC HIGH SCHOOL",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851312",
+      "school_name": "ST FRANCIS SCHOOL",
+      "school_district": "ST FRANCIS SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851410",
+      "school_name": "ST GABRIEL'S CATHOLIC SCHOOL",
+      "school_district": "ST GABRIEL'S CATHOLIC SCHOOL",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850851",
+      "school_name": "ST HELEN CATHOLIC SCHOOL",
+      "school_district": "ST HELEN CATHOLIC SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876164",
+      "school_name": "ST IGNATIUS MARTYR CATHOLIC SCHOOL",
+      "school_district": "ST IGNATIUS MARTYR CATHOLIC SCHOOL",
+      "scouting_district": "Thunderbird",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876386",
+      "school_name": "ST JOSEPH ELEMENTARY SCHOOL",
+      "school_district": "ST JOSEPH ELEMENTARY SCHOOL",
+      "scouting_district": "Live Oak",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851242",
+      "school_name": "ST LOUIS CATHOLIC SCHOOL",
+      "school_district": "ST LOUIS CATHOLIC SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876405",
+      "school_name": "ST MARY'S ELEMENTARY SCHOOL",
+      "school_district": "ST MARY'S ELEMENTARY SCHOOL",
+      "scouting_district": "Hill Country",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851795",
+      "school_name": "ST MICHAELS CATHOLIC SCHOOL",
+      "school_district": "ST MICHAELS CATHOLIC SCHOOL",
+      "scouting_district": "Live Oak",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876114",
+      "school_name": "ST PAUL LUTHERAN SERBIN SCHOOL",
+      "school_district": "ST PAUL LUTHERAN SERBIN SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851073",
+      "school_name": "ST ROSE OF LIMA CATHOLIC SCHOOL",
+      "school_district": "ST ROSE OF LIMA CATHOLIC SCHOOL",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876464",
+      "school_name": "ST STEPHEN'S EPISCOPAL SCHOOL",
+      "school_district": "ST STEPHEN'S EPISCOPAL SCHOOL",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876268",
+      "school_name": "SUMMIT CHRISTIAN ACADEMY OF CEDAR PARK",
+      "school_district": "SUMMIT CHRISTIAN ACADEMY OF CEDAR PARK",
+      "scouting_district": "North Shore",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876403",
+      "school_name": "SWEET HOME EL",
+      "school_district": "SWEET HOME ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876461",
+      "school_name": "TAMIM",
+      "school_district": "TAMIM",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457828395",
+      "school_name": "MAIN STREET EL",
+      "school_district": "TAYLOR ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805443",
+      "school_name": "NAOMI PASEMANN EL",
+      "school_district": "TAYLOR ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851595",
+      "school_name": "TAYLOR H S",
+      "school_district": "TAYLOR ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851675",
+      "school_name": "TAYLOR MIDDLE",
+      "school_district": "TAYLOR ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805568",
+      "school_name": "TH JOHNSON EL",
+      "school_district": "TAYLOR ISD",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876445",
+      "school_name": "TEXAS EMPOWERMENT ACADEMY",
+      "school_district": "TEXAS EMPOWERMENT ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851140",
+      "school_name": "TEXAS EMPOWERMENT ACADEMY EL",
+      "school_district": "TEXAS EMPOWERMENT ACADEMY",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457805653",
+      "school_name": "TEXAS SCHOOL FOR THE BLIND AND VISUALLY IMPAIRED",
+      "school_district": "TEXAS SCH FOR THE BLIND & VISUALLY IMPAIRED",
+      "scouting_district": "Unassigned",
+      "district_type": "TSD/TSBVI"
+    },
+    {
+      "monday_item_id": "12457805451",
+      "school_name": "TEXAS SCHOOL FOR THE DEAF",
+      "school_district": "TEXAS SCH FOR THE DEAF",
+      "scouting_district": "Armadillo",
+      "district_type": "TSD/TSBVI"
+    },
+    {
+      "monday_item_id": "12457851932",
+      "school_name": "BILLY MOORE",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876118",
+      "school_name": "CONNALLY",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851988",
+      "school_name": "DIBOLL",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850887",
+      "school_name": "THE EXCEL CENTER (FOR ADULTS)",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850954",
+      "school_name": "THE EXCEL CENTER FOR ADULTS - LOCKHART",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Live Oak",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851865",
+      "school_name": "THE EXCEL CENTER FOR ADULTS - SOUTH AUSTIN",
+      "school_district": "THE EXCEL CENTER (FOR ADULTS)",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457852017",
+      "school_name": "THE GIRLS' SCHOOL OF AUSTIN",
+      "school_district": "THE GIRLS' SCHOOL OF AUSTIN",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457850999",
+      "school_name": "THE LEARNING EXPERIENCE",
+      "school_district": "THE LEARNING EXPERIENCE",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876481",
+      "school_name": "THE MAGELLAN INTERNATIONAL SCHOOL",
+      "school_district": "THE MAGELLAN INTERNATIONAL SCHOOL",
+      "scouting_district": "Armadillo",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851413",
+      "school_name": "THE TEXAS GIRLS SCHOOL",
+      "school_district": "THE TEXAS GIRLS SCHOOL",
+      "scouting_district": "North Shore",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851787",
+      "school_name": "THRALL EL",
+      "school_district": "THRALL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851317",
+      "school_name": "THRALL H S",
+      "school_district": "THRALL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851698",
+      "school_name": "THRALL MIDDLE",
+      "school_district": "THRALL ISD",
+      "scouting_district": "San Gabriel",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876197",
+      "school_name": "TNT ACADEMY",
+      "school_district": "TNT ACADEMY",
+      "scouting_district": "Colorado River",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851477",
+      "school_name": "TRINITY EPISCOPAL SCHOOL OF AUSTIN",
+      "school_district": "TRINITY EPISCOPAL SCHOOL OF AUSTIN",
+      "scouting_district": "Bee Cave",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851672",
+      "school_name": "UNIVERSITY OF TEXAS EL CHARTER SCHOOL",
+      "school_district": "UNIVERSITY OF TEXAS ELEMENTARY CHARTER SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851192",
+      "school_name": "GEORGETOWN BEHAVIORAL HEALTH INSTITUTE",
+      "school_district": "UNIVERSITY OF TEXAS UNIVERSITY CHARTER SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851167",
+      "school_name": "HELPING HAND",
+      "school_district": "UNIVERSITY OF TEXAS UNIVERSITY CHARTER SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851216",
+      "school_name": "SETTLEMENT HOME",
+      "school_district": "UNIVERSITY OF TEXAS UNIVERSITY CHARTER SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851116",
+      "school_name": "TNC CAMPUS (TEXAS NEUROREHABILITATION CENTER)",
+      "school_district": "UNIVERSITY OF TEXAS UNIVERSITY CHARTER SCHOOL",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851412",
+      "school_name": "UNPARALLELED PREPARATORY ACADEMY",
+      "school_district": "UNPARALLELED PREPARATORY ACADEMY",
+      "scouting_district": "Armadillo",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850353",
+      "school_name": "THE EAST AUSTIN COLLEGE PREP AT MLK",
+      "school_district": "VALERE PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850261",
+      "school_name": "THE EAST AUSTIN COLLEGE PREP AT SOUTHWEST KEY",
+      "school_district": "VALERE PUBLIC SCHOOLS",
+      "scouting_district": "Unassigned",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850697",
+      "school_name": "VALOR KYLE",
+      "school_district": "VALOR EDUCATION",
+      "scouting_district": "Sacred Springs",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851590",
+      "school_name": "VALOR LEANDER",
+      "school_district": "VALOR EDUCATION",
+      "scouting_district": "North Shore",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851492",
+      "school_name": "VALOR NORTH AUSTIN",
+      "school_district": "VALOR EDUCATION",
+      "scouting_district": "Chisholm Trail",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457876502",
+      "school_name": "VALOR SOUTH AUSTIN",
+      "school_district": "VALOR EDUCATION",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851367",
+      "school_name": "VYSEHRAD EL",
+      "school_district": "VYSEHRAD ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851556",
+      "school_name": "WAELDER SCHOOL",
+      "school_district": "WAELDER ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876482",
+      "school_name": "WATERLOO SCHOOL",
+      "school_district": "WATERLOO SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851954",
+      "school_name": "WAYSIDE ALTAMIRA ACADEMY",
+      "school_district": "WAYSIDE SCHOOLS",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851794",
+      "school_name": "WAYSIDE EDEN PARK ACADEMY",
+      "school_district": "WAYSIDE SCHOOLS",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851864",
+      "school_name": "WAYSIDE REAL LEARNING ACADEMY",
+      "school_district": "WAYSIDE SCHOOLS",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457851677",
+      "school_name": "WAYSIDE SCI-TECH MIDDLE AND H S",
+      "school_district": "WAYSIDE SCHOOLS",
+      "scouting_district": "Thunderbird",
+      "district_type": "CHARTER"
+    },
+    {
+      "monday_item_id": "12457850210",
+      "school_name": "WESTHOFF ACADEMY FOR COLLEGE AND CAREERS",
+      "school_district": "WESTHOFF ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457850348",
+      "school_name": "WESTHOFF EL",
+      "school_district": "WESTHOFF ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457876508",
+      "school_name": "WHOLE LIFE LEARNING CENTER",
+      "school_district": "WHOLE LIFE LEARNING CENTER",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851143",
+      "school_name": "WILLIAMS SCHOOL",
+      "school_district": "WILLIAMS SCHOOL",
+      "scouting_district": "Unassigned",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457851145",
+      "school_name": "BLUE HOLE PRI",
+      "school_district": "WIMBERLEY ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829684",
+      "school_name": "DANFORTH J H",
+      "school_district": "WIMBERLEY ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851074",
+      "school_name": "JACOB'S WELL EL",
+      "school_district": "WIMBERLEY ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805742",
+      "school_name": "WIMBERLEY H S",
+      "school_district": "WIMBERLEY ISD",
+      "scouting_district": "Sacred Springs",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851594",
+      "school_name": "WIMBERLEY MONTESSORI",
+      "school_district": "WIMBERLEY MONTESSORI",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457876311",
+      "school_name": "WONDERLAND SCHOOL",
+      "school_district": "WONDERLAND SCHOOL",
+      "scouting_district": "Sacred Springs",
+      "district_type": "PRIVATE"
+    },
+    {
+      "monday_item_id": "12457805561",
+      "school_name": "YOAKUM ANNEX",
+      "school_district": "YOAKUM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805382",
+      "school_name": "YOAKUM H S",
+      "school_district": "YOAKUM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457828385",
+      "school_name": "YOAKUM INT",
+      "school_district": "YOAKUM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805566",
+      "school_name": "YOAKUM J H",
+      "school_district": "YOAKUM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805380",
+      "school_name": "YOAKUM PRI",
+      "school_district": "YOAKUM ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457829690",
+      "school_name": "YORKTOWN EL",
+      "school_district": "YORKTOWN ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805656",
+      "school_name": "YORKTOWN H S",
+      "school_district": "YORKTOWN ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457805746",
+      "school_name": "YORKTOWN J H",
+      "school_district": "YORKTOWN ISD",
+      "scouting_district": "Live Oak",
+      "district_type": "INDEPENDENT"
+    },
+    {
+      "monday_item_id": "12457851557",
+      "school_name": "ZION LUTHERAN SCHOOL",
+      "school_district": "ZION LUTHERAN SCHOOL",
+      "scouting_district": "San Gabriel",
+      "district_type": "PRIVATE"
+    }
+  ]
+}
