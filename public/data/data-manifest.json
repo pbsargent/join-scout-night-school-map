@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-08-01T22:36:16.924Z",
+  "service_area_since": 1912,
+  "council_bounds": [
+    -99.484755,
+    28.8133,
+    -96.560555,
+    31.035009
+  ],
+  "counts": {
+    "counties": 15,
+    "school_districts": 91,
+    "full_school_districts": 43,
+    "partial_school_districts": 48,
+    "scouting_district_names": 10,
+    "scouting_regions": 10,
+    "schools": 480,
+    "assigned_schools": 404,
+    "unassigned_schools": 76
+  },
+  "scouting_district_names": [
+    "Armadillo",
+    "Bee Cave",
+    "Chisholm Trail",
+    "Colorado River",
+    "Hill Country",
+    "Live Oak",
+    "North Shore",
+    "Sacred Springs",
+    "San Gabriel",
+    "Thunderbird"
+  ],
+  "notes": [
+    "Scouting regions and school points use only CAC Schools records whose District Type is Independent.",
+    "The 2021 council district map is not used.",
+    "Waterloo and Exploring are excluded because they are not geographic scouting districts.",
+    "Scouting regions follow assigned school-district polygons; districts with multiple scouting assignments are subdivided using mapped schools.",
+    "Derived scouting regions are planning aids, not legal boundaries.",
+    "Scouting and school district polygons are clipped to the 15-county council boundary.",
+    "Recruitment school points outside the 15-county council boundary are excluded."
+  ],
+  "sources": {
+    "counties": "https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip",
+    "school_districts": "https://data.capitol.texas.gov/dataset/school-districts",
+    "scouting_districts": "https://capitolareacouncil564.monday.com/boards/18420733851"
+  }
+}
